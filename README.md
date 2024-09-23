@@ -1,6 +1,8 @@
+💀💀💀[DEPRECATED]💀💀💀 use option "passive" from testplane@8.16.0 instead
+
 # hermione-passive-browsers [![Build Status](https://travis-ci.org/gemini-testing/hermione-passive-browsers.svg?branch=master)](https://travis-ci.org/gemini-testing/hermione-passive-browsers)
 
-Plugin for [hermione](https://github.com/gemini-testing/hermione) to run tests in passive browsers on request. Passive browsers are browsers in which tests do not run by default.
+Plugin for [testplane](https://github.com/gemini-testing/testplane) to run tests in passive browsers on request. Passive browsers are browsers in which tests do not run by default.
 
 You can read more about hermione plugins [here](https://github.com/gemini-testing/hermione#plugins).
 
